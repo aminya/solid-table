@@ -13,7 +13,7 @@ jobs:
         os:
           - windows-latest
         node:
-          # - 10
+          - 10
           - 12
           - 14
     steps:
